@@ -1,6 +1,5 @@
 # The Ultimate No-Code AI Toolkit
 
-![AI Toolkit Banner](/api/placeholder/1200/300)
 
 ## Introduction
 
@@ -30,7 +29,6 @@ Tools for predictive modeling, classification, regression, and anomaly detection
 
 ### 1. Akkio (No-Code)
 
-![Akkio Logo](/api/placeholder/100/100)
 
 **Description**: Akkio is a no-code platform that simplifies predictive analytics by letting you upload structured data (e.g., CSVs), train models, and deploy them instantly. It's beginner-friendly, fast, and perfect for tabular data tasks like fraud detection or risk scoring.
 
@@ -49,7 +47,6 @@ Tools for predictive modeling, classification, regression, and anomaly detection
 
 ### 2. Google AutoML (No-Code/Low-Code)
 
-![Google AutoML Logo](/api/placeholder/100/100)
 
 **Description**: Google AutoML, part of Google Cloud, offers no-code/low-code tools to train custom ML models on structured data, text, or images. It's backed by Google's AI expertise, making it scalable and reliable for quick prototypes.
 
@@ -68,7 +65,6 @@ Tools for predictive modeling, classification, regression, and anomaly detection
 
 ### 3. DataRobot (No-Code/Low-Code)
 
-![DataRobot Logo](/api/placeholder/100/100)
 
 **Description**: DataRobot is an enterprise-grade AutoML platform that automates model building, evaluation, and deployment. It's powerful for handling large datasets and offers built-in visualizations, though it's less accessible for solo hackers due to cost.
 
@@ -87,7 +83,6 @@ Tools for predictive modeling, classification, regression, and anomaly detection
 
 ### 4. Obviously AI (No-Code)
 
-![Obviously AI Logo](/api/placeholder/100/100)
 
 **Description**: Obviously AI is a no-code platform focused on predictive analytics and time-series forecasting. It's designed for simplicity, allowing one-click model training on structured data, making it ideal for quick hackathon wins.
 
@@ -106,7 +101,6 @@ Tools for predictive modeling, classification, regression, and anomaly detection
 
 ### 5. Create ML (No-Code)
 
-![Create ML Logo](/api/placeholder/100/100)
 
 **Description**: Create ML, by Apple, is a no-code tool within Xcode for training ML models on tabular data, images, or sounds. It's Mac-only but offers a polished interface for Apple ecosystem users.
 
@@ -125,7 +119,6 @@ Tools for predictive modeling, classification, regression, and anomaly detection
 
 ### 6. BigML (No-Code/Low-Code)
 
-![BigML Logo](/api/placeholder/100/100)
 
 **Description**: BigML is a no-code/low-code platform for ML tasks like classification, regression, and clustering. It offers a visual interface for model building and deployment, with strong support for structured data.
 
@@ -144,7 +137,6 @@ Tools for predictive modeling, classification, regression, and anomaly detection
 
 ### 7. H2O.ai (No-Code/Low-Code)
 
-![H2O.ai Logo](/api/placeholder/100/100)
 
 **Description**: H2O.ai provides a no-code/low-code AutoML platform for predictive modeling, with a focus on scalability and enterprise use. Its Driverless AI automates ML workflows with minimal input.
 
@@ -169,7 +161,6 @@ Tools for neural networks, image recognition, and complex data processing with m
 
 ### 8. Lobe (No-Code)
 
-![Lobe Logo](/api/placeholder/100/100)
 
 **Description**: Lobe is a free, no-code desktop app by Microsoft for training image-based DL models. It's intuitive, runs locally, and is perfect for visual tasks without coding.
 
@@ -188,7 +179,6 @@ Tools for neural networks, image recognition, and complex data processing with m
 
 ### 9. Teachable Machine (No-Code)
 
-![Teachable Machine Logo](/api/placeholder/100/100)
 
 **Description**: Teachable Machine is a web-based no-code tool by Google for training DL models on images, audio, or poses. It's browser-based, requiring no setup, and ideal for quick demos.
 
@@ -207,7 +197,6 @@ Tools for neural networks, image recognition, and complex data processing with m
 
 ### 10. RunwayML (No-Code, DL Features)
 
-![RunwayML Logo](/api/placeholder/100/100)
 
 **Description**: RunwayML offers no-code DL capabilities alongside generative features, supporting image/video recognition and editing with pre-trained models.
 
@@ -226,7 +215,6 @@ Tools for neural networks, image recognition, and complex data processing with m
 
 ### 11. Clarifai (No-Code/Low-Code)
 
-![Clarifai Logo](/api/placeholder/100/100)
 
 **Description**: Clarifai is a no-code/low-code platform for DL, specializing in image, video, and text recognition with pre-built and custom models.
 
@@ -245,7 +233,6 @@ Tools for neural networks, image recognition, and complex data processing with m
 
 ### 12. Nanonets (No-Code)
 
-![Nanonets Logo](/api/placeholder/100/100)
 
 **Description**: Nanonets is a no-code platform for DL-based image and document processing, excelling at OCR and object detection with a simple interface.
 
@@ -270,7 +257,6 @@ Tools for text analysis, sentiment, classification, and conversational AI with m
 
 ### 13. MonkeyLearn (No-Code)
 
-![MonkeyLearn Logo](/api/placeholder/100/100)
 
 **Description**: MonkeyLearn is a no-code NLP platform for text classification, sentiment analysis, and entity extraction. It's user-friendly and perfect for quick text-based AI agents.
 
@@ -289,7 +275,6 @@ Tools for text analysis, sentiment, classification, and conversational AI with m
 
 ### 14. Levity (No-Code)
 
-![Levity Logo](/api/placeholder/100/100)
 
 **Description**: Levity is a no-code tool for text, image, and document classification, with automation features to streamline repetitive tasks.
 
@@ -308,7 +293,6 @@ Tools for text analysis, sentiment, classification, and conversational AI with m
 
 ### 15. Cogniflow (No-Code)
 
-![Cogniflow Logo](/api/placeholder/100/100)
 
 **Description**: Cogniflow is a no-code platform for text, image, and audio analysis, allowing custom NLP models with an easy-to-use interface.
 
@@ -327,7 +311,6 @@ Tools for text analysis, sentiment, classification, and conversational AI with m
 
 ### 16. TextRazor (No-Code/Low-Code)
 
-![TextRazor Logo](/api/placeholder/100/100)
 
 **Description**: TextRazor is a no-code/low-code NLP tool for entity extraction, sentiment analysis, and topic modeling, with API-driven functionality.
 
@@ -346,7 +329,6 @@ Tools for text analysis, sentiment, classification, and conversational AI with m
 
 ### 17. Dialogflow (No-Code/Low-Code)
 
-![Dialogflow Logo](/api/placeholder/100/100)
 
 **Description**: Dialogflow, by Google, is a no-code/low-code platform for building conversational AI agents (chatbots) with natural language understanding.
 
@@ -365,7 +347,6 @@ Tools for text analysis, sentiment, classification, and conversational AI with m
 
 ### 18. Wit.ai (No-Code)
 
-![Wit.ai Logo](/api/placeholder/100/100)
 
 **Description**: Wit.ai, by Facebook, is a no-code platform for building NLP-powered chatbots and voice assistants with a simple interface.
 
@@ -390,7 +371,6 @@ Tools for creating content, simulations, or synthetic data with minimal coding.
 
 ### 19. RunwayML (No-Code)
 
-![RunwayML Logo](/api/placeholder/100/100)
 
 **Description**: RunwayML is a no-code platform for generative AI, offering tools to create images, videos, and text using pre-trained models, with an emphasis on creativity.
 
@@ -409,7 +389,6 @@ Tools for creating content, simulations, or synthetic data with minimal coding.
 
 ### 20. E42 (No-Code)
 
-![E42 Logo](/api/placeholder/100/100)
 
 **Description**: E42 is a no-code platform for building AI assistants and automating workflows, with a focus on conversational and generative AI.
 
@@ -428,7 +407,6 @@ Tools for creating content, simulations, or synthetic data with minimal coding.
 
 ### 21. Synthesia (No-Code)
 
-![Synthesia Logo](/api/placeholder/100/100)
 
 **Description**: Synthesia is a no-code tool for generating AI-powered videos with synthetic avatars, ideal for presentations or training content.
 
@@ -447,7 +425,6 @@ Tools for creating content, simulations, or synthetic data with minimal coding.
 
 ### 22. Canva Magic Studio (No-Code)
 
-![Canva Magic Studio Logo](/api/placeholder/100/100)
 
 **Description**: Canva's Magic Studio is a no-code GenAI suite within Canva, offering text-to-image, text generation, and design tools for visual content creation.
 
@@ -466,7 +443,6 @@ Tools for creating content, simulations, or synthetic data with minimal coding.
 
 ### 23. Writesonic (No-Code)
 
-![Writesonic Logo](/api/placeholder/100/100)
 
 **Description**: Writesonic is a no-code GenAI tool for generating text content (e.g., articles, ads) with AI-driven templates and prompts.
 
@@ -485,7 +461,6 @@ Tools for creating content, simulations, or synthetic data with minimal coding.
 
 ### 24. Jasper (No-Code)
 
-![Jasper Logo](/api/placeholder/100/100)
 
 **Description**: Jasper is a no-code GenAI platform for creating high-quality text content, with templates for marketing, blogs, and more.
 
@@ -510,7 +485,6 @@ Tools for storing, organizing, and managing data with minimal coding.
 
 ### 25. Airtable (No-Code)
 
-![Airtable Logo](/api/placeholder/100/100)
 
 **Description**: Airtable is a no-code database with a spreadsheet-like interface, offering flexibility for structured data, collaboration, and automation.
 
@@ -529,7 +503,6 @@ Tools for storing, organizing, and managing data with minimal coding.
 
 ### 26. Google Sheets (No-Code)
 
-![Google Sheets Logo](/api/placeholder/100/100)
 
 **Description**: Google Sheets is a free, cloud-based spreadsheet tool with automation and collaboration features, ideal for lightweight data management.
 
@@ -548,7 +521,6 @@ Tools for storing, organizing, and managing data with minimal coding.
 
 ### 27. Notion (No-Code)
 
-![Notion Logo](/api/placeholder/100/100)
 
 **Description**: Notion is a no-code workspace tool with database capabilities, allowing structured and unstructured data management in a flexible format.
 
@@ -567,7 +539,6 @@ Tools for storing, organizing, and managing data with minimal coding.
 
 ### 28. Bubble Data (No-Code)
 
-![Bubble Data Logo](/api/placeholder/100/100)
 
 **Description**: Bubble Data is the built-in database feature of Bubble, a no-code app builder, allowing data storage and management within web apps.
 
@@ -586,8 +557,6 @@ Tools for storing, organizing, and managing data with minimal coding.
 
 ### 29. Supabase (No-Code/Low-Code)
 
-![Supabase Logo](/api/placeholder/100/100)
-
 **Description**: Supabase is an open-source, no-code/low-code alternative to Firebase, offering a PostgreSQL database with a user-friendly dashboard.
 
 **Usage Across Domains**:
@@ -605,7 +574,6 @@ Tools for storing, organizing, and managing data with minimal coding.
 
 ### 30. Sheetgo (No-Code)
 
-![Sheetgo Logo](/api/placeholder/100/100)
 
 **Description**: Sheetgo is a no-code tool for connecting and automating spreadsheets, ideal for managing data flows across multiple sources.
 
@@ -626,7 +594,6 @@ Tools for storing, organizing, and managing data with minimal coding.
 
 ## How to Use This Guide
 
-![How to Use Guide](/api/placeholder/800/400)
 
 1. **Match Your Problem**: Pick a category based on your hackathon problem (e.g., fraud → Core ML, text moderation → NLP).
 2. **Select a Tool**: Choose no-code for speed (e.g., Akkio) or low-code for flexibility (e.g., Supabase).
@@ -639,7 +606,6 @@ Tools for storing, organizing, and managing data with minimal coding.
 
 ## Hackathon Tips
 
-![Hackathon Tips](/api/placeholder/800/400)
 
 - **Speed**: Stick to free-tier no-code tools (e.g., Teachable Machine, Airtable) for rapid prototyping.
 - **Impact**: Use GenAI tools (e.g., Synthesia) for flashy demos.
