@@ -1,4 +1,5 @@
 #Introduction
+
 This README is your ultimate resource for building AI agents without coding expertise, tailored to Fintech (e.g., fraud detection), Cybersecurity (e.g., threat monitoring), Healthcare (e.g., diagnostics), Social Media (e.g., content moderation), and Social Cause (e.g., disaster relief). I’ve expanded the toolkit with new no-code/low-code options, reducing code-based tools to focus on accessibility. Categories include:
 
 Core ML: Predictive models, classification, anomaly detection for structured data.
