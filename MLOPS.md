@@ -11,7 +11,7 @@ This comprehensive course introduces the foundational concepts of ETL (Extract, 
 
 You'll learn a practical workflow, explore both free and paid tools, and see two demonstrations: one with MLflow (free) and another with AWS tools (paid).
 
-**Last Updated:** February 26, 2025  
+**Last Updated:** February 27, 2025  
 **Target Audience:** Hackathon participants, beginners, and intermediate learners building AI agents.
 
 ## Table of Contents
