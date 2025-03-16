@@ -48,7 +48,7 @@ Tools for predictive modeling, classification, regression, and anomaly detection
 ### 2. Google AutoML (No-Code/Low-Code)
 
 
-**Description**: Google AutoML, part of Google Cloud, offers no-code/low-code tools to train custom ML models on structured data, text, or images. It's backed by Google's AI expertise, making it scalable and reliable for quick prototypes.
+**Description**: Google AutoML, part of Google Cloud, offers no-code/low-code tools to train custom ML models on structured data, text, or images. It's backed by Google's AI expertise, making it scalable and reliable for quick prototypes
 
 **Usage Across Domains**:
 - **Fintech**: Predict loan defaults from applicant data (e.g., income, credit score) with a classification model.
