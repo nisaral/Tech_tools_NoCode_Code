@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This README is your ultimate resource for building AI agents without coding expertise, tailored too:
+This README is your ultimate resource for building AI agents without coding expertise, tailored too:-
 
 - **Fintech** (e.g., fraud detection)
 - **Cybersecurity** (e.g., threat monitoring)
